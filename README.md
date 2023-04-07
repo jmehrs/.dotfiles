@@ -1,5 +1,3 @@
 # .dotfiles
 
-### Kinesis Advantage 360
-* Will there be a travel case?
-* Will there be blank key caps?
+Contains config files for all the tools I use for work/personal development
